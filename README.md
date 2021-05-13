@@ -29,4 +29,4 @@ The are two produce the solution:
 2. Use `Custom_Model_V6_Cross` to train the model using crossvalidation
 
 
-Take about 2h per epoch using GPU nVidia 1080Ti
+Take about 2h per epoch using GPU nVIDIA 1080Ti
